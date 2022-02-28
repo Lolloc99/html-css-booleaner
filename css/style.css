@@ -17,7 +17,7 @@ header img {
 
 header {
     background-color: #329ad6;
-    background-image: url(/img/pattern.png); /* Non funziona, per qualche motivo non trova il file nonostante lui stesso lo indichi tra le scelte rapide */
+    background-image: url(../img/pattern.png);
 }
 
 #container {
@@ -49,4 +49,17 @@ header {
 
 #lista {
     padding-left: 18px;
+}
+
+#tabella {
+    width: 80%;
+}
+
+.thead {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.blu {
+    background-color: rgb(183, 228, 243);
 }
