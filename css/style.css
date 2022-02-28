@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-header img{
+header img {
     width: 150px;
     height: 80px;
 }
@@ -12,4 +12,22 @@ header img{
 header {
     background-color: #329ad6;
     background-image: url(/img/pattern.png); /* Non funziona, per qualche motivo non trova il file nonostante lui stesso lo indichi tra le scelte rapide */
+}
+
+#container{
+    margin: 10px;
+}
+
+.firma {
+    color:rgb(136, 136, 136);
+    font-weight: bold;
+}
+
+#link {
+    color: rgb(81, 196, 241);
+    text-decoration: none;
+}
+
+#data {
+    font-size:x-small;
 }
