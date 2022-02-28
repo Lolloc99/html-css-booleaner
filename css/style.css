@@ -12,6 +12,7 @@ In caso l'immagine non doveva essere a pieno schermo, bene o male cosi dovrebbe 
 */
 
 header img {
+    padding-top: 30px;
     width: 150px;
     height: 80px;
 }
@@ -19,6 +20,7 @@ header img {
 header {
     background-color: #329ad6;
     background-image: url(../img/pattern.png);
+    background-size: 17%;
 }
 
 #container {
