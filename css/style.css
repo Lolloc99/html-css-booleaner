@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+/* body {
+    width: 55vw;
+} 
+In caso l'immagine non doveva essere a pieno schermo, bene o male cosi dovrebbe essere più simile, ma le scritte sarebbero da adattare
+*/
+
 header img {
     width: 150px;
     height: 80px;
@@ -35,4 +41,12 @@ header {
 .descr {
     font-weight: bold;
     font-size: x-small;
+}
+
+.evidenzia {
+    background-color: yellow;
+}
+
+#lista {
+    padding-left: 18px;
 }
