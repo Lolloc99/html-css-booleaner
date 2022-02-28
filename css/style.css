@@ -23,7 +23,7 @@ header {
     background-size: 17%;
 }
 
-#container {
+.container {
     margin: 10px;
 }
 
@@ -70,4 +70,26 @@ td {
 
 .blu {
     background-color: rgb(183, 228, 243);
+}
+
+.link {
+    margin-top: 10px;
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+}
+
+.A {
+    background-image: url(../img/monitor.jpg);
+}
+
+.B {
+    background-image: url(../img/graph.jpg);
+}
+
+.linkscritta {
+    padding: 10px;
+    font-size: x-large;
+    font-weight: 900;
+    color: white;
 }
