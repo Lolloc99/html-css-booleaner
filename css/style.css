@@ -14,7 +14,7 @@ header {
     background-image: url(/img/pattern.png); /* Non funziona, per qualche motivo non trova il file nonostante lui stesso lo indichi tra le scelte rapide */
 }
 
-#container{
+#container {
     margin: 10px;
 }
 
@@ -30,4 +30,9 @@ header {
 
 #data {
     font-size:x-small;
+}
+
+.descr {
+    font-weight: bold;
+    font-size: x-small;
 }
